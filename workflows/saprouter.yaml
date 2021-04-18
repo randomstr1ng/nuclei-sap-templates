@@ -2,7 +2,7 @@ id: saprouter-workflow
 
 info:
   name: SAProuter Security checks
-  author: @randomstr1ng
+  author: randomstr1ng
   description: A simple workflow that runs all checks related to SAProuter.
   tags: workflow
 
